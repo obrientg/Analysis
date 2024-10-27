@@ -1,5 +1,6 @@
-Recieved 2 sames, different file names & hashes but the same detection of JS/Phish.AAL that was sent to the email address I use for threat intel & incident reponse collaboration efforts. 
-Email SRC was Google Cloud (GCP) with an open proxy, abuse reporting submitted.  
+Received two (2) of the same samples, with different file names & hashes but the same detection of JS/Phish.AAL 
+Both were sent to the email address I use for threat intel & incident response collaboration efforts. 
+Email SRC on both was Google Cloud (GCP) with an open proxy, abuse reporting submitted.  
 
 
 Email header anaysis, email #1:
