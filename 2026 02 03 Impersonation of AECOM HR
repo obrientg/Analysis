@@ -1,6 +1,8 @@
 Impersonation of AECOM HR - The malicious actors continue to target individuals on the search for their next job.
+
 Yesterday I spent the afternoon writing up a response to (what I thought) a reach out by AECOM HR for potential roles with the company. Having crafted thoughtful responses to the questions, I went to reply – 
 And realized this was fake. This is a scammer. 
+
 The tell-tale signs I missed at first: 
 •	The name not matching the email address 
 •	Weird subject line
@@ -9,6 +11,7 @@ The tell-tale signs I missed at first:
 •	Email interaction tracking URL 
 This sample was specifically targeted as they pulled background from LinkedIn regarding my background and experience, hence my blocking the other telltale signs. 
 These threat actors are using mailsuite [DOT] com a Gmail plugin to track their targeted individuals (aka the u.list-opt-center [DOT] com URL). This appears to be a legit service being used for malicious activities. 
+
 URL analysis: 
 https://urlquery.net/report/006b71b8-a7ee-49f0-8790-d820a213a5ab
 https://app.checkphish.ai/public/insights/1770266875251/6218c64bf21ec8b9fc4652883e086e71ae5c134fa0390dc00fdf83d807ed0621
@@ -163,4 +166,6 @@ Mailsuite Email tracked with Mailsuite  · Opt out <hXXps ://u.list-opt-center [
 
 
 
-
+----------------------------------------------------------
+My LinkedIn posting: https://www.linkedin.com/posts/activity-7425234187286351872-z1Wx
+My Mastodon posting: https://infosec.exchange/@obrientg/116019930004835520
