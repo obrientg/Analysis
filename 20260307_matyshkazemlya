@@ -1,0 +1,20 @@
+Wow, now I'm getting malware URLs via reverb.com - way to hand over a long-time threat intel person the IoC's
+
+nothing on VT yet https://www.virustotal.com/gui/url/3086617690b3b089bff0dd7b96f0e389a57ad32630fd93b6a29d6cdc8256edfe/detection
+Zero detections: https://www.urlvoid.com/scan/matyshkazemlya.com/
+scan failed 403 forbidden: https://sitecheck.sucuri.net/results/www.matyshkazemlya.com 
+
+https://urlquery.net/report/7840c1b4-791d-47d1-b531-4ac3b7fd0f92 redirect and is sinkholed via DNS4EU 
+
+I submitted to Pulsedive: https://pulsedive.com/indicator/?ioc=d3d3Lm1hdHlzaGthemVtbHlhLmNvbQ== 
+
+Showing a redirect to Google on checkphish (LOL) https://app.checkphish.ai/public/insights/1772914041531/3086617690b3b089bff0dd7b96f0e389a57ad32630fd93b6a29d6cdc8256edfe
+
+IoC: 
+www.matyshkazemlya [DOT] com
+
+Message on Reverb.com: 
+Hey, I've been trying to buy your listing but keep getting a payment error. The site gave me a link with some info for the seller to check — www.matyshkazemlya [DOT] com Could you take a look? Mia Brown
+
+#IR #incidentRespose #CTI #IOC #infosec #cyberz #cybersecurity #infosec #reverb 
+#suspectdomain #virustotal #pulsedive #URLvoid #threatIntel #ThreatInteligence 
